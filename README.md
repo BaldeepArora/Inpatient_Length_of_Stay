@@ -11,15 +11,14 @@ Predicting length of stay of patients in a hospital on factors such as : Gender,
    <br> - Handling Missing values
    <br> - Feature data types
    <br> - Outliers
-2. Univariate and Bivariate Analysis
-3. Correlation
-4. Modelling 
+2. Data Pre-processing
+3. Univariate and Bivariate Analysis
+4. Correlation
+5. Modelling 
   <br> - OLS base model
-  <br> - Model evaluation
-  <br> - Tuning of above model
   <br> - Model Evaluation
-5. Model Comparition and selection of Best
-6. Conclusion
+6. Model Comparition and selection of Best
+7. Conclusion
 
 ### Summary
 After this analysis, I was able to observe the features having a stronger impact on the model, less important features as well as features not relevant to our analysis.
